@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="92">
+  <author>Peppie84</author>
+  <version>0.1.0.0</version>
+  <title>
+    <en>Cutter Converter</en>
+    <de>Schneidwerk Fruchtkonvertierer</de>
+  </title>
+  <description>
+    <en><![CDATA[Basic mod to use cutter fruit converter based on a map.
+
+Enables cutter fruit converter via map, rather than per single cutter on their XMLs. This allows the mapper to incorporate crops such as: Winter wheat becomes wheat after threshing.
+You can find an example implementation in a map on Github.
+
+For more information, help, and reporting issues, please visit <a href='https://github.com/Peppie84/FS25_CutterConverter'>GitHub</a>.
+]]>    </en>
+    <de><![CDATA[Basis Mod zur Verwendung von Schneidwerk Fruchtkonvertierung basierend auf einer Map.
+
+Aktiviert die Schneidwerk-Fruchtkonvertierung über die Karte, statt pro Schneidwerk in deren XMLs. Damit wird dem Mapper erlaubt, Früchte wie: Winterweizen wird Weizen nach dem dreschen einzubauen.
+Ein Beispiel Implementierung in eine Map kannst du dir auf Github anschauen.
+
+Weitere Informationen, Hilfe und Probleme melden, findest Du unter <a href='https://github.com/Peppie84/FS25_CutterConverter'>GitHub</a>.
+]]>    </de>
+  </description>
+  <iconFilename>icon_CutterConverter.dds</iconFilename>
+  <multiplayer supported="true" />
+  <extraSourceFiles>
+    <sourceFile filename="src/cutterConverter.lua" />
+  </extraSourceFiles>
+</modDesc>
