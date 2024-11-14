@@ -10,7 +10,7 @@
 
 <br />
 
-<h2>⚠️⚠️ Searching for a modder who wants to implement this ⚠️⚠️</h2>
+<h2>⚠️⚠️ Searching for a mapper who wants to implement this ⚠️⚠️</h2>
 
 <br />
 
