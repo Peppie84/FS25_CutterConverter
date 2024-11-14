@@ -10,12 +10,16 @@
 
 <br />
 
+<h2>⚠️⚠️ Searching for a modder who wants to implement this ⚠️⚠️</h2>
+
+<br />
+
 <img src="documents/icon_CutterConverter.png" style="width: 250px;">
 
 <h3 align="center"><u>FS25_CutterConverter</u></h3>
 
 <p align="center">
-    Enables cutter fruit converter via map, rather than per single cutter on their XMLs. This allows the mapper to incorporate crops such as: Winter wheat becomes wheat after threshing. Can be used for:<br />
+    Enables cutter fruit converter via map, rather than per single cutter on their XMLs. This allows the mapper to implement crops such as: Winter wheat becomes wheat after threshing. Can be used for:<br />
     - winter wheat => wheat<br />
     - winter barley => barley<br />
 </p>
