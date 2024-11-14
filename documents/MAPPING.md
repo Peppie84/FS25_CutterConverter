@@ -398,11 +398,11 @@ Open your `map_fruitTypes.xml` again. Scroll down to the `fruitTypeConverters` s
 
 
 ## 3. Add the CutterConverter Mod to your dependency list
-Last final step. Open your `modDesc.xml` and add the `FS22_CutterConverter` as a dependency. For exmaple:
+Last final step. Open your `modDesc.xml` and add the `FS25_CutterConverter` as a dependency. For exmaple:
 ```xml
 <dependencies>
     ...
-    <dependency>FS22_CutterConverter</dependency>
+    <dependency>FS25_CutterConverter</dependency>
     ...
 </dependencies>
 ```
